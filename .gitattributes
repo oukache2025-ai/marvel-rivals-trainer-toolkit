@@ -1,0 +1,7 @@
+*.js linguist-detectable
+
+**/*.js linguist-detectable
+public/index.html linguist-vendored
+public/* linguist-vendored
+yarn.lock linguist-generated
+*.md linguist-documentation
